@@ -1,9 +1,9 @@
-package com.github.ration.intellijmeaningfultheme.services
+package ration.theme.meaningful.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.ration.intellijmeaningfultheme.MyBundle
+import ration.theme.meaningful.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

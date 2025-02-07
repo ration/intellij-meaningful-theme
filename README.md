@@ -4,6 +4,18 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 
+Meaningful is a Theme fo Intellij that has reasonable contrast and all colors are chosen as to display meaning: 
+- <span style="color:#c3e3c3">*Comments*</span>.
+- <span style="color:#ff00ff">*Keywords*</span>.
+- <span style="color:#00ff33">*Strings*</span>.
+- <span style="color:#00ffff">*Numbers*</span>.
+- <span style="color:#fff53c">*Annotations*</span>.
+
+
+# Links
+
+- https://www.youtube.com/watch?v=9J0j-90dC60&t=582s
+
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
 - [ ] Get familiar with the [template documentation][template].

@@ -1,5 +1,4 @@
-package com.github.ration.intellijmeaningfultheme.listeners
-
+package ration.theme.meaningful.listeners
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.wm.IdeFrame

@@ -1,4 +1,4 @@
-package com.github.ration.intellijmeaningfultheme
+package ration.theme.meaningful
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

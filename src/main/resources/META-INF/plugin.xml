@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.ration.intellijmeaningfultheme</id>
-    <name>intellij-meaningful-theme</name>
+    <id>ration.theme.meaningful</id>
+    <name>Meaningful Theme</name>
     <vendor>ration</vendor>
 
     <depends>com.intellij.modules.platform</depends>
@@ -9,10 +9,11 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.ration.intellijmeaningfultheme.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <!--<toolWindow factoryClass="ration.theme.meaningful.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>-->
+        <themeProvider id="ration.theme.meaningful" path="/theme/meaningful.theme.json" />
     </extensions>
-
+<!--
     <applicationListeners>
-        <listener class="com.github.ration.intellijmeaningfultheme.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
+        <listener class="ration.theme.meaningful.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
+    </applicationListeners>-->
 </idea-plugin>
