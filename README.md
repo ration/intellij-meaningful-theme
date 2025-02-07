@@ -5,11 +5,11 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 
 Meaningful is a Theme fo Intellij that has reasonable contrast and all colors are chosen as to display meaning: 
-- <span style="color:#c3e3c3">*Comments*</span>.
-- <span style="color:#ff00ff">*Keywords*</span>.
-- <span style="color:#00ff33">*Strings*</span>.
-- <span style="color:#00ffff">*Numbers*</span>.
-- <span style="color:#fff53c">*Annotations*</span>.
+- ![Comments](https://img.shields.io/badge/Comments-%23c3e3c3?style=flat-square)
+- ![Keywords](https://img.shields.io/badge/Keywords-%23ff00ff?style=flat-square)
+- ![Strings](https://img.shields.io/badge/Strings-%2300ff33?style=flat-square)
+- ![Numbers](https://img.shields.io/badge/Numbers-%2300ffff?style=flat-square)
+- ![Annotations](https://img.shields.io/badge/Annotations-%23fff53c?style=flat-square)
 
 
 # Links
