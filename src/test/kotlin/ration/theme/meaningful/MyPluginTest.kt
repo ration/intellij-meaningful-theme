@@ -11,6 +11,7 @@ import ration.theme.meaningful.services.MyProjectService
 @TestDataPath("\$CONTENT_ROOT/src/test/testData")
 class MyPluginTest : BasePlatformTestCase() {
 
+    // This is a comment
     fun testXMLFile() {
         val psiFile = myFixture.configureByText(XmlFileType.INSTANCE, "<foo>bar</foo>")
         val xmlFile = assertInstanceOf(psiFile, XmlFile::class.java)

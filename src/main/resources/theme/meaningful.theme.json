@@ -2,12 +2,16 @@
  "author": "Tatu Lahtela",
   "dark": true,
   "name": "Meaningful",
+  "editorScheme": "/theme/meaningful.xml",
   "colors": {
     "comment": "#c3e3c3",
     "keyword" : "#ff00ff",
     "string" : "#00ff33",
     "number" : "#00ffff",
     "object": "#2cd8d8",
+    "identifiers": "#caa5e4",
+    "function": "#dd48eb",
+
     "annotation" : "#fff53c"
   },
   "ui" : {
